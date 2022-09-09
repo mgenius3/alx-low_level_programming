@@ -2,6 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
+/**
+ 1 last digit
+ */
 int main(void)
 {
 	int n;
