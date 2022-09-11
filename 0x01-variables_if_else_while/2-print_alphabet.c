@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * main - Entry point
+ * Return: Always 2
+ */
 int main(void)
 {
 	char alphabet;
