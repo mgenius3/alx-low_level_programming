@@ -2,6 +2,7 @@
 
 /**
  * times table - print the times table 
+ *@times_table: times table
  */
 void times_table(void)
 {
