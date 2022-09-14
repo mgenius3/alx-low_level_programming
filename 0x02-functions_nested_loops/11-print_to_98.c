@@ -3,7 +3,7 @@
 /**
  * print to 98 - Prints all natural numbers from input o 98,
  * 	in order seperated by a comma follwed by a space.
- *
+ *@n: the number to begin start counting out.
  */
 void print_to_98(int n)
 {
