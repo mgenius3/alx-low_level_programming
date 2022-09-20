@@ -27,10 +27,14 @@ int main(void)
 			{
 				printf("Buzz ");
 			}
-			else{
+			else
+			{
 				printf("FizzBuzz");
 			}
 		}
+		else
+		{
+			printf("FizzBuzz")
+			}
 	}
 }
-
